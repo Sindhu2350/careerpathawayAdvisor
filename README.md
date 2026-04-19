@@ -87,11 +87,11 @@ Includes:
 
 ---
 
-## 📥 APK Download
+##  APK Download
 The APK file is available in the **Releases** section of this repository.
 
 ---
-## ⚠️ Limitations
+##  Limitations
 - Limited regional data (Pondicherry colleges)
 - Internet required for some features
 - No AI-based personalization
